@@ -1,0 +1,17 @@
+int main(int argc,char *argv[])
+{
+    if(argc>=2)
+    {
+	    if(strcmp(argv[1],"-h")==0)					//if loop for comparing the input string with "-h"
+	    {
+            cout<<"Usage:The main purpose of this program is to calculate the sum of the squares of a given number which is the following format:\n(1*1)+(2*2)+(3*3)+......(n*n) "<<endl;
+            cout<<"input:4"<<endl;
+            cout<<"output:30"<<endl;
+	    }
+    }
+	else
+	{
+        sumofsquares();
+    }
+    
+}
