@@ -1,4 +1,4 @@
-/*case 1:Find the formula for given expression and write the program for the given input expression:1+4+9+16+....+100*/
+/*case 1:Parse the give command line and display type and size of() */
 /*purpose	:parse the command line and dispaly the output
   filename	:case1.cpp
   Author 	:Badari vinay
